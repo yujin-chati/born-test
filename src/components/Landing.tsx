@@ -42,7 +42,7 @@ export default function Landing({ onEnter }: Props) {
       <div className="relative z-10 flex flex-col items-center gap-5 md:gap-6 text-center px-6">
         <div className="flex items-center gap-3">
           <img
-            src="/logo_bk.png"
+            src="./logo_bk.png"
             alt="Born ★ qquqqu"
             className="select-none"
             style={{ height: 80, maxWidth: '70vw', objectFit: 'contain' }}
